@@ -32,6 +32,6 @@ Licensed under the MIT License
 
 ## Repository
 
-GitHub Repository URL: 
+GitHub Repository URL: https://github.com/KayaM17/01-code-refactor
 
-Deployed Web Application URL: 
+Deployed Web Application URL:  https://kayam17.github.io/01-code-refactor/
